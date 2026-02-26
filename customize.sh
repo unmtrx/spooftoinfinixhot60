@@ -1,7 +1,6 @@
-ui_print "S24Ultra Spoofer"
-ui_print "Spoof Your Device To S24 Ultra Spoofer"
+ui_print "Infinix Hot 60 Spoofer"
+ui_print "Spoof Your Device To Infinix Hot 60"
 ui_print "v7.1.0"
-ui_print "By: MRX7014"
-ui_print "Don't forget to join MRX7014 Cloud!"
+ui_print "By: unmtrx"
+ui_print "Don't forget to fucking find unmtrx!"
 sleep 3
-am start -a android.intent.action.VIEW -d "https://t.me/mrx7014cloud"
